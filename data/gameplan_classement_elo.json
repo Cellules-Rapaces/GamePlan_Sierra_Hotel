@@ -1,0 +1,20 @@
+[
+	{
+		"Classement": "<div style='color:green;'>1⯅</div>",
+		"Equipe": "Black Knights",
+		"ELO": 1031,
+		"Matchs_played": 2
+	},
+	{
+		"Classement": "<div style='color:red;'>2⯆</div>",
+		"Equipe": "Cellules Rapaces",
+		"ELO": 1030,
+		"Matchs_played": 1
+	},
+	{
+		"Classement": 3,
+		"Equipe": "No Escape Zone",
+		"ELO": 1001,
+		"Matchs_played": 1
+	}
+]

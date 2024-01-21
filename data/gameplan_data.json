@@ -1,0 +1,35 @@
+[
+	{
+		"Equipe": "Cellules Rapaces",
+		"ELO": [
+			1030,
+			1000
+		],
+		"Classements": [
+			2,
+			1
+		]
+	},
+	{
+		"Equipe": "Black Knights",
+		"ELO": [
+			1031,
+			1001,
+			1000
+		],
+		"Classements": [
+			1,
+			2
+		]
+	},
+	{
+		"Equipe": "No Escape Zone",
+		"ELO": [
+			1001,
+			1000
+		],
+		"Classements": [
+			3
+		]
+	}
+]
