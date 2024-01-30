@@ -2,10 +2,12 @@
 	{
 		"Equipe": "Cellules Rapaces",
 		"ELO": [
+			1057,
 			1030,
 			1000
 		],
 		"Classements": [
+			1,
 			2,
 			1
 		]
@@ -18,12 +20,24 @@
 			1000
 		],
 		"Classements": [
+			2,
 			1,
 			2
 		]
 	},
 	{
 		"Equipe": "No Escape Zone",
+		"ELO": [
+			1001,
+			1000
+		],
+		"Classements": [
+			3,
+			3
+		]
+	},
+	{
+		"Equipe": "79th Tigers",
 		"ELO": [
 			1001,
 			1000
