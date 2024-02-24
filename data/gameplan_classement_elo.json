@@ -1,24 +1,30 @@
 [
 	{
-		"Classement": "<div style='color:green;'>1⯅</div>",
+		"Classement": 1,
 		"Equipe": "Cellules Rapaces",
 		"ELO": 1057,
 		"Matchs_played": 2
 	},
 	{
-		"Classement": "<div style='color:red;'>2⯆</div>",
-		"Equipe": "Black Knights",
-		"ELO": 1031,
-		"Matchs_played": 2
+		"Classement": 2,
+		"Equipe": "Flying Buddies",
+		"ELO": 1033,
+		"Matchs_played": 1
 	},
 	{
-		"Classement": 3,
+		"Classement": "<div style='color:red;'>3⯆</div>",
+		"Equipe": "Black Knights",
+		"ELO": 1032,
+		"Matchs_played": 3
+	},
+	{
+		"Classement": "<div style='color:red;'>4⯆</div>",
 		"Equipe": "79th Tigers",
 		"ELO": 1001,
 		"Matchs_played": 1
 	},
 	{
-		"Classement": 3,
+		"Classement": "<div style='color:red;'>4⯆</div>",
 		"Equipe": "No Escape Zone",
 		"ELO": 1001,
 		"Matchs_played": 1
